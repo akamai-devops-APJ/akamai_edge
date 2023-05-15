@@ -1,0 +1,13 @@
+group_name      = ""
+contract_id     = ""
+product_id      = ""
+ip_behavior     = ""
+origin_hostname = ""
+edgeHostname    = ""
+certificate     = 0
+cert_provisioning_type = "CPS_MANAGED"
+rule_format            = "v2020–11–01"
+cpcode_name            = ""
+configuration_name     = ""
+hostname               = ""
+contact                = ["example@email.com"]
