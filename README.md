@@ -20,4 +20,4 @@ Akamai Terraform Provider to manage and provision your akamai property manager i
 
 I created this project to fill a personal need to provide users with easy way to accomplish onboarding and management tasks on Akamai compute. While there are advance options they are optional and the project should be as simple as possible so that the barrier for entry is super duper low.
 
-![Alt text](https://www.mockofun.com/wp-content/uploads/2020/05/buy-me-a-coffee-logo-6100.jpg "Optional title")
+<img width="300" alt="buymecoffee" src="https://github.com/akamai-devops-APJ/akamai_edge/assets/73431376/5304391a-e453-46e1-a160-3fc3941efc1d">
